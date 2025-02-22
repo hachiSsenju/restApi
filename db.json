@@ -1,1 +1,11 @@
 
+ "produit": [
+    {
+      "id": 1,
+      "code": 12,
+      "designation": "un produit",
+      "prix":12,
+      "dateExp":,
+      "description": "12212"
+      
+    }
