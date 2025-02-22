@@ -1,26 +1,11 @@
-[
+{
+  "posts": [
     {
-        "id": 1,
-        "code": 1001,
-        "designation": "Product A",
-        "prix": 29.99,
-        "dateexp": "2025-12-31T00:00:00",
-        "description": "Description of Product A."
-    },
-    {
-        "id": 2,
-        "code": 1002,
-        "designation": "Product B",
-        "prix": 49.50,
-        "dateexp": "2026-01-15T00:00:00",
-        "description": "Description of Product B."
-    },
-    {
-        "id": 3,
-        "code": 1003,
-        "designation": "Product C",
-        "prix": 15.75,
-        "dateexp": "2025-11-30T00:00:00",
-        "description": "Description of Product C."
+      "id": 1,
+      "title": "hello"
     }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
