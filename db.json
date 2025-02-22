@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "code": 101,
+      "designation": "Product 1",
+      "prix": 19.99,
+      "dateExp": "2023-12-31",
+      "description": "This is the first product."
+    },
+    {
+      "id": 2,
+      "code": 102,
+      "designation": "Product 2",
+      "prix": 29.99,
+      "dateExp": "2024-01-15",
+      "description": "This is the second product."
+    },
+    {
+      "id": 3,
+      "code": 103,
+      "designation": "Product 3",
+      "prix": 39.99,
+      "dateExp": "2024-02-20",
+      "description": "This is the third product."
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
