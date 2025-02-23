@@ -15,14 +15,6 @@
       "prix": 29.99,
       "dateExp": "2024-01-15",
       "description": "This is the second product."
-    },
-    {
-      "id": 3,
-      "code": 103,
-      "designation": "Product 3",
-      "prix": 39.99,
-      "dateExp": "2024-02-20",
-      "description": "This is the third product."
     }
   ]
 }
